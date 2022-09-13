@@ -7,8 +7,10 @@ Projeto de estudos inicial paca conhecer a ferramenta GitHub.
 
 Utilizando o formato MarkDown (Extensão .md)
 
+app.js criado, para acessa-lo, por favor digite.
 ````
-node app.js (isso é só um exemplo)
+node app.js
 ````
+
 
 :)
